@@ -1,3 +1,12 @@
+/************************************************************************************
+	JAVA PROGRAM TO ADD THE TWO ARRAYS
+	SAMPLE INPUT: ARRAY1: {2,3,4}
+				  ARRAY2: {3,4,5}
+		  OUTPUT: ANSWER: {5,7,9}
+		  
+		  AUTHOR: DHEVENDHIRAN M
+		  DATE: 12.01.2018
+**************************************************************************************/
 package Array;
 
 import java.util.Scanner;
